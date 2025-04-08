@@ -1,13 +1,8 @@
-## Hi there 👋
+### Brayden McMahons README
 
-<!--
-**BraydenMcMahon/BraydenMcMahon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Would like to learn more about network infrastructure
 
-Here are some ideas to get you started:
+# CS student with hobbies includeing fantasy novels and magic the gathering.
 
-- 🔭 A monopoly board game 
-- 🌱 Linux and containers
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Novels AKA currently finishing the cosmere 
-- ⚡ Fun fact: Duel Citizen of US and Canada
--->
+# currently coding on a custom monopoly game so I can play it with freinds
+
